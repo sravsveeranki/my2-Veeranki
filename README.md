@@ -29,6 +29,13 @@ BUNJEE JUMPING
 | Volleyball    | Strengthens muscles and improves planning       | 5 hours      |
 | Cricket       | We feel releived when we play with friends      | 2 hours      |
 
+----------------
+## PITHY QUOTES
+
+> *Art is the tree of life. Science is the tree of death.* – **William Blake**
+
+> *Rockets are cool. There’s no getting around that.* – **Elon Musk**
+
 
 
 
