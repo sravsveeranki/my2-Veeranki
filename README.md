@@ -32,9 +32,9 @@ BUNJEE JUMPING
 ----------------
 ## PITHY QUOTES
 
-> *Art is the tree of life. Science is the tree of death.* – *William Blake*
+> Art is the tree of life. Science is the tree of death. – *William Blake*
 
-> *Rockets are cool. There’s no getting around that.* – *Elon Musk*
+> Rockets are cool. There’s no getting around that. – *Elon Musk*
 -----
 ##  Code Fencing and Stack Overflow Question
 
