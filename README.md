@@ -16,7 +16,7 @@ BUNJEE JUMPING
 - CHOLE BATURE
 - ALOO TIKKA
 
-[MyStats](MyStats.md)
+[To know more about me CLICK HERE](MyStats.md)
 
 ----------------
 
