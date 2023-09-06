@@ -35,7 +35,20 @@ BUNJEE JUMPING
 > *Art is the tree of life. Science is the tree of death.* – **William Blake**
 
 > *Rockets are cool. There’s no getting around that.* – **Elon Musk**
+-----
+##  Code Fencing and Stack Overflow Question
 
+>*What is the correct way? CSS Link Pseudo-Class* - [Stack OverFlow](https://stackoverflow.com/questions/8159656/what-is-the-correct-way-css-link-pseudo-class)
+
+```
+a:link    { color: blue; }
+a:visited { color: purple; }
+a:hover   { color: red; }
+a:focus   { outline: 1px solid blue; }
+a:active  { color: yellow ;}
+
+```
+Snippet Source Link <https://css-tricks.com/snippets/css/link-pseudo-classes-in-order/>
 
 
 
