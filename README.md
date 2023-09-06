@@ -15,3 +15,5 @@ BUNJEE JUMPING
 - PETHA 
 - CHOLE BATURE
 - ALOO TIKKA
+
+[MyStats](MyStats.md)
